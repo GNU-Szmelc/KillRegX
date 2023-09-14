@@ -1,4 +1,4 @@
-# KillX
+# KillRegX
 > List [Process / PID] by it's RegEx then kill by PID.
 
 ### About
