@@ -1,4 +1,4 @@
-# KillRegX
+# RgXKill
 > List [Process / PID] by it's RegEx then kill by PID.
 
 <img src="https://i.imgur.com/epVVAPU.png" alt="image">
